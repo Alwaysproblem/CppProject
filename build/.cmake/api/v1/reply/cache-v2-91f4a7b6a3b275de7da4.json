@@ -71,7 +71,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "RelWithDebInfo"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -83,7 +83,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yongxiyang/Desktop/CPP/build"
+			"value" : "/Users/yongxiyang/Desktop/CppProject/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/yongxiyang/Desktop/CPP"
+			"value" : "/Users/yongxiyang/Desktop/CppProject"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1803,7 +1803,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yongxiyang/Desktop/CPP/build"
+			"value" : "/Users/yongxiyang/Desktop/CppProject/build"
 		},
 		{
 			"name" : "hello_SOURCE_DIR",
@@ -1815,7 +1815,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/yongxiyang/Desktop/CPP"
+			"value" : "/Users/yongxiyang/Desktop/CppProject"
 		}
 	],
 	"kind" : "cache",

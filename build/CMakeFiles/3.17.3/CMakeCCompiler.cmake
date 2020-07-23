@@ -72,5 +72,5 @@ endif()
 
 set(CMAKE_C_IMPLICIT_INCLUDE_DIRECTORIES "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/11.0.3/include;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/include;/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include")
 set(CMAKE_C_IMPLICIT_LINK_LIBRARIES "")
-set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "/Users/yongxiyang/Desktop/Ctensorflow/lib;/Users/yongxiyang/Desktop/CPP;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib")
+set(CMAKE_C_IMPLICIT_LINK_DIRECTORIES "/Users/yongxiyang/Desktop/Ctensorflow/lib;/Users/yongxiyang/Desktop/CppProject;/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/usr/lib")
 set(CMAKE_C_IMPLICIT_LINK_FRAMEWORK_DIRECTORIES "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk/System/Library/Frameworks")

@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/Users/yongxiyang/Desktop/CPP/main.cc
+/Users/yongxiyang/Desktop/CppProject/main.cc
 iostream
 -
 vector
@@ -14,13 +14,13 @@ vector
 string
 -
 math/hello.h
-/Users/yongxiyang/Desktop/CPP/math/hello.h
+/Users/yongxiyang/Desktop/CppProject/math/hello.h
 
-/Users/yongxiyang/Desktop/CPP/math/hello.cc
+/Users/yongxiyang/Desktop/CppProject/math/hello.cc
 hello.h
-/Users/yongxiyang/Desktop/CPP/math/hello.h
+/Users/yongxiyang/Desktop/CppProject/math/hello.h
 
-/Users/yongxiyang/Desktop/CPP/math/hello.h
+/Users/yongxiyang/Desktop/CppProject/math/hello.h
 iostream
 -
 vector

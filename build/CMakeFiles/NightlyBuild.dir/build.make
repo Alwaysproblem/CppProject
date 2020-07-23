@@ -63,10 +63,10 @@ RM = /usr/local/Cellar/cmake/3.17.3/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /Users/yongxiyang/Desktop/CPP
+CMAKE_SOURCE_DIR = /Users/yongxiyang/Desktop/CppProject
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /Users/yongxiyang/Desktop/CPP/build
+CMAKE_BINARY_DIR = /Users/yongxiyang/Desktop/CppProject/build
 
 # Utility rule file for NightlyBuild.
 
@@ -91,6 +91,6 @@ CMakeFiles/NightlyBuild.dir/clean:
 .PHONY : CMakeFiles/NightlyBuild.dir/clean
 
 CMakeFiles/NightlyBuild.dir/depend:
-	cd /Users/yongxiyang/Desktop/CPP/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/yongxiyang/Desktop/CPP /Users/yongxiyang/Desktop/CPP /Users/yongxiyang/Desktop/CPP/build /Users/yongxiyang/Desktop/CPP/build /Users/yongxiyang/Desktop/CPP/build/CMakeFiles/NightlyBuild.dir/DependInfo.cmake --color=$(COLOR)
+	cd /Users/yongxiyang/Desktop/CppProject/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /Users/yongxiyang/Desktop/CppProject /Users/yongxiyang/Desktop/CppProject /Users/yongxiyang/Desktop/CppProject/build /Users/yongxiyang/Desktop/CppProject/build /Users/yongxiyang/Desktop/CppProject/build/CMakeFiles/NightlyBuild.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/NightlyBuild.dir/depend
 

@@ -4,8 +4,8 @@
 
 
 # Configuration directories and files
-SourceDirectory: /Users/yongxiyang/Desktop/CPP
-BuildDirectory: /Users/yongxiyang/Desktop/CPP/build
+SourceDirectory: /Users/yongxiyang/Desktop/CppProject
+BuildDirectory: /Users/yongxiyang/Desktop/CppProject/build
 
 # Where to place the cost data store
 CostDataFile: 
@@ -26,7 +26,7 @@ SubmitURL: http://
 NightlyStartTime: 00:00:00 EDT
 
 # Commands for the build/test/submit cycle
-ConfigureCommand: "/usr/local/Cellar/cmake/3.17.3/bin/cmake" "/Users/yongxiyang/Desktop/CPP"
+ConfigureCommand: "/usr/local/Cellar/cmake/3.17.3/bin/cmake" "/Users/yongxiyang/Desktop/CppProject"
 MakeCommand: /usr/local/Cellar/cmake/3.17.3/bin/cmake --build . --config "${CTEST_CONFIGURATION_TYPE}" -- -i
 DefaultCTestConfigurationType: Release
 
@@ -57,9 +57,9 @@ P4UpdateOptions:
 P4UpdateCustom: 
 
 # Generic update command
-UpdateCommand: 
+UpdateCommand: /usr/local/bin/git
 UpdateOptions: 
-UpdateType: 
+UpdateType: git
 
 # Compiler info
 Compiler: /usr/bin/clang++
