@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/yongxiyang/Desktop/CPP/build",
+  "command": "/usr/bin/clang++    -O2 -g -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/hello.dir/main.cc.o -c /Users/yongxiyang/Desktop/CPP/main.cc",
+  "file": "/Users/yongxiyang/Desktop/CPP/main.cc"
+},
+{
+  "directory": "/Users/yongxiyang/Desktop/CPP/build",
+  "command": "/usr/bin/clang++    -O2 -g -DNDEBUG -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk   -o CMakeFiles/hello.dir/math/hello.cc.o -c /Users/yongxiyang/Desktop/CPP/math/hello.cc",
+  "file": "/Users/yongxiyang/Desktop/CPP/math/hello.cc"
+}
+]

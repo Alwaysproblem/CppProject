@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/yongxiyang/Desktop/CPP/main.cc
+iostream
+-
+vector
+-
+string
+-
+math/hello.h
+/Users/yongxiyang/Desktop/CPP/math/hello.h
+
+/Users/yongxiyang/Desktop/CPP/math/hello.cc
+hello.h
+/Users/yongxiyang/Desktop/CPP/math/hello.h
+
+/Users/yongxiyang/Desktop/CPP/math/hello.h
+iostream
+-
+vector
+-
+string
+-
+

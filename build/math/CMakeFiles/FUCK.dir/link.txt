@@ -1,0 +1,2 @@
+/usr/bin/ar qc libFUCK.a  CMakeFiles/FUCK.dir/hello.cc.o
+/usr/bin/ranlib libFUCK.a
